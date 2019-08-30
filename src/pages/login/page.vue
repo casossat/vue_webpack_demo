@@ -10,7 +10,7 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import { FormComponent } from "./components"
+import { FormComponent } from "./components";
 
 export default Vue.extend({
   name: "loginPage",
